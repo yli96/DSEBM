@@ -2,8 +2,6 @@
 
 Implementation of Deep Structured Energy Based Models(http://proceedings.mlr.press/v48/zhai16.pdf).
 
-I couldn't find the detail of experiment in the paper (mainly around dataset settings). 
-
 
 # Usage
 ## Create Dataset
